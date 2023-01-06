@@ -1,0 +1,13 @@
+---
+header:
+  - name: Home
+    icon: gblog_tree
+    ref: "/"
+  - name: About
+    icon: gblog_person
+    ref: "/about"
+
+footer:
+  - name: About
+    icon: gblog_email
+    ref: "/about"

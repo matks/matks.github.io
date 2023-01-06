@@ -1,0 +1,206 @@
+oss:
+
+    1:
+        title: 'When we have to reject a Pull Request'
+        type: 'tweet'
+        url: 'https://twitter.com/gonedark/status/1142797111068626946?s=19'
+
+    2:
+        title: 'When closing an old GitHub issue'
+        type: 'tweet'
+        url: 'https://twitter.com/jwage/status/1119594235152556032?s=19'
+
+    3:
+        title: 'When someone complains for regressions'
+        type: 'source'
+        url: 'https://github.com/linuxmint/cinnamon/issues/8454'
+
+    4:
+        title: 'For critics about number of known bugs'
+        type: 'tweet'
+        url: 'https://twitter.com/Der_Pesse/status/1108682867985534976'
+
+    5:
+        title: "Software has bugs. It's normal"
+        type: 'tweet'
+        url: 'https://twitter.com/dhh/status/1158523585830330368?s=19'
+
+    6:
+        title: 'Against harassment (1)'
+        type: 'tweet'
+        url: 'https://mobile.twitter.com/dantley/status/1154167035317891072'
+
+    7:
+        title: 'Against harassment (2)'
+        type: 'tweet'
+        url: 'https://twitter.com/dantley/status/1153891234072551424?s=19'
+
+    8:
+        title: 'Against harassment (3)'
+        type: 'tweet'
+        url: 'https://twitter.com/dbrumann/status/1159046544429146112?s=19'
+
+    9:
+        title: 'Against harassment (4)'
+        type: 'source'
+        url: 'https://github.com/fafhrd91/actix-web-postmortem'
+
+    10:
+        title: 'About technical debt'
+        type: 'source'
+        url: 'https://medium.com/@pabloborowicz/on-houses-debt-and-software-rewrites-c94a509f358'
+
+    11:
+        title: 'About being polite on GitHub'
+        type: 'tweet'
+        url: 'https://twitter.com/ConalPierse/status/1163180037769744384?s=19'
+
+    12:
+        title: 'For people putting pressure on GitHub issue (1)'
+        type: 'tweet'
+        url: 'https://twitter.com/_jayphelps/status/1179893573845696524'
+
+    13:
+        title: 'About contributors & maintainers time, sharing, collaboration and relationship'
+        type: 'source'
+        url: 'https://medium.com/@alcaeus/dealing-with-large-changes-in-open-source-projects-26a4aad87803'
+
+    14:
+        title: 'About +1 on a GitHub issue'
+        type: 'tweet'
+        url: 'https://twitter.com/pockystar/status/1260628976118177800'
+
+    15:
+        title: 'For people putting pressure on GitHub issue (2)'
+        type: 'tweet'
+        url: 'https://twitter.com/frankdejonge/status/1236727595670134786'
+
+    16:
+        title: 'About BC breaks in patch releases'
+        type: 'tweet'
+        url: 'https://twitter.com/fabpot/status/1270266315379539971'
+
+    17:
+        title: 'About undesired opinions'
+        type: 'tweet'
+        url: 'https://twitter.com/brandonkelly/status/1274111676347043851?s=19'
+
+    18:
+        title: 'About supporting the legacy'
+        type: 'tweet'
+        url: 'https://mobile.twitter.com/diervo/status/1278497779657007104'
+
+    19:
+        title: 'People wanting to change a project for themselves'
+        type: 'tweet'
+        url: 'https://twitter.com/JohnONolan/status/1276821293556543489?s=19'
+
+    20:
+        title: 'About Pull Requests rejected because against project vision'
+        type: 'tweet'
+        url: 'https://twitter.com/pockystar/status/1282067541930717184'
+
+    21:
+        title: 'When people ask why some feature is not there'
+        type: 'tweet'
+        url: 'https://twitter.com/taylorotwell/status/1284241683534753794'
+
+    22:
+        title: 'About how hard it is to maintain multiple versions'
+        type: 'tweet'
+        url: 'https://twitter.com/colinodell/status/1284963082410889227?s=19'
+
+    23:
+        title: 'No contribute, no complain.'
+        type: 'tweet'
+        url: 'https://twitter.com/GeeH/status/560401888609595392'
+
+    24:
+        title: 'About breaking backward compatibility'
+        type: 'source'
+        url: 'https://medium.com/@steve.yegge/dear-google-cloud-your-deprecation-policy-is-killing-you-ee7525dc05dc'
+
+    25:
+        title: 'About users being jerks and demanding'
+        type: 'tweet'
+        url: 'https://twitter.com/EmilyKager/status/1321603336051789824'
+
+    26:
+        title: 'About testing betas and RC'
+        type: 'tweet'
+        url: 'https://twitter.com/el_stoffel/status/1313811168050515971'
+
+    27:
+        title: 'Maintainers owe nothing'
+        type: 'tweet'
+        url: 'https://twitter.com/driesvints/status/1312826232879407104?s=19'
+
+    28:
+        title: 'Users asking for updates and ETA'
+        type: 'tweet'
+        url: 'https://twitter.com/mhartington/status/1334863715502526466'
+
+    29:
+        title: 'Users complaining on Twitter'
+        type: 'tweet'
+        url: 'https://twitter.com/OndrejMirtes/status/1330569062003462145?s=19'
+        
+    30:
+        title: 'OSS is not free support'
+        type: 'source'
+        url: 'https://raccoon.onyxbits.de/blog/bugreport-free-support/'
+
+    31:
+        title: 'About empathy'
+        type: 'tweet'
+        url: 'https://twitter.com/KentBeck/status/566255102067871744?s=19'
+
+    32:
+        title: 'OSS maintainers do not work for you'
+        type: 'tweet'
+        url: 'https://twitter.com/xabbuh/status/1410852211677085696?s=19'
+
+    33:
+        title: 'How to Make Your Code Reviewer Fall in Love with You'
+        type: 'source'
+        url: 'https://mtlynch.io/code-review-love/'
+
+    34:
+        title: 'When people are frustrated you haven’t made something'
+        type: 'tweet'
+        url: 'https://twitter.com/adamwathan/status/1381275398646927362?s=19'
+
+    35:
+        title: 'The social contract of open source'
+        type: 'source'
+        url: 'https://snarky.ca/the-social-contract-of-open-source/'
+
+    36:
+        title: 'For another indeterminate number people, your PR breaks something.'
+        type: 'tweet'
+        url: 'https://twitter.com/Nick_Craver/status/1391385254167031812?s=19'
+
+    37:
+        title: 'Prefer PRs with low complexity but high user impact'
+        type: 'tweet'
+        url: 'https://twitter.com/taylorotwell/status/1388554652359200768'
+    38:
+        title: 'A quick definition of Open-Source'
+        type: 'tweet'
+        url: 'https://twitter.com/fabpot/status/1456175998874144768'
+    39:
+        title: 'Free as in free puppy'
+        type: 'tweet'
+        url: 'https://twitter.com/mmilinkov/status/1470867644282724368'
+    40:
+        title: 'Template for writing good PRs'
+        type: 'tweet'
+        url: 'https://twitter.com/lorismatic/status/1469308514170556416?t=iuaOwLJk6FXfkI-HSMDBfA&s=19'
+    41:
+        title: 'Interesting contributors'
+        type: 'tweet'
+        url: 'https://twitter.com/dan_abramov/status/1463736748400336899?t=9pTQtv06xj8C5Ga7bJ-jvw&s=19'
+    42:
+        title: 'Maintainers have life'
+        type: 'tweet'
+        url: 'https://twitter.com/CiaranMcNulty/status/1464245890168799250'

@@ -1,0 +1,92 @@
+comics:
+
+    commitstrip:
+        url: 'http://www.commitstrip.com'
+        imgUrl: 'https://pbs.twimg.com/profile_images/799175475310501889/QBwKXK34_400x400.jpg'
+        title: 'CommitStrip'
+        author: 'CommitStrip'
+        authorUrl: 'https://twitter.com/CommitStrip'
+        short: |
+             Funny anecdotes of what life as a coder in a web agency is,
+             mixed up with a dash of topical tech news. Makes you smile because you
+             know it's true.
+
+    dilbert:
+        url: 'http://dilbert.com/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/1128664840233525248/T3YNFtIt_400x400.png'
+        title: 'Dilbert'
+        author: 'Scott Adams'
+        authorUrl: 'https://twitter.com/Dilbert_Daily'
+        short: |
+            World-renowned satirical office humor about a white-collar,
+            micromanaged office featuring engineer Dilbert. If you find it similar
+            to your daily work experience, run fast.
+
+    cube-drone:
+        url: 'http://cube-drone.com/'
+        imgUrl: 'https://d24ju8re1w4x9e.cloudfront.net/original/2X/f/fad1bcb947d4e9b519fcd16dfd1b8ec437db33c6.png'
+        title: 'Cube Drone'
+        author: 'Curtis Lassam'
+        authorUrl: 'https://twitter.com/classam'
+        short: |
+             Webcomic about code and coders. High geek level.
+
+    monkey-user:
+        url: 'http://www.monkeyuser.com/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/1176914616951160832/1sqrZ0XQ_400x400.jpg'
+        title: 'MonkeyUser'
+        author: 'Cornel Stefanache'
+        authorUrl: 'https://twitter.com/_cstefanache'
+        short: |
+            "MonkeyUser is an effort of two inappropriate developers trying to make others laugh.
+            MonkeyUser was created out of a desire to bring joy to people working in IT by making life a little
+            less boring, but mostly because it’s a lot of fun for us."
+
+    consolia-comics:
+        url: 'http://consolia-comic.com/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/1221749231339347968/7rP7C7KJ_400x400.jpg'
+        title: '/consol[i|.]+[a]*/'
+        author: 'Tim Quax'
+        authorUrl: 'https://twitter.com/timquax'
+        short: |
+             Webcomic about "programming and nerd stuff". Author is a backend developer
+             who pictures coding life quite right !
+
+    xkcd:
+        url: 'https://xkcd.com/'
+        imgUrl: 'https://imgs.xkcd.com/comics/oxidation.png'
+        title: 'xkcd'
+        author: 'Randall Munroe'
+        authorUrl: 'http://foonetic.net/'
+        short: |
+            World-renowned science & geeky webcomics.
+            "A webcomic of romance, sarcasm, math, and language."
+
+    dont-hit-save:
+        url: 'http://donthitsave.com/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/760492590156353536/uA4VafNE_400x400.jpg'
+        title: 'Don''t hit save'
+        author: 'Jeff Lofvers'
+        authorUrl: 'https://twitter.com/donthitsave'
+        short: |
+            "Technology is only as good as the people who make it."
+
+    turnoff:
+        url: 'http://turnoff.us/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/700758684872286208/WmXyfLmr_400x400.png'
+        title: 'turnoff.us'
+        author: 'Daniel Stori'
+        authorUrl: 'https://twitter.com/turnoff_us'
+        short: |
+            Webcomic about "programming Languages, Web, Cloud, Linux". And about
+            daily developer life.
+
+    browserling:
+        url: 'https://comic.browserling.com/'
+        imgUrl: 'https://pbs.twimg.com/profile_images/841913807882592256/pJeD-N0j_400x400.jpg'
+        title: 'Browserling'
+        author: 'Browserling'
+        authorUrl: 'https://twitter.com/browserling'
+        short: |
+             "[Browserling] is created by a bunch of hackers who love to over-engineer things.
+             We've probably created the most over-engineered comic in the world. Really."

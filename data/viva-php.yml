@@ -1,0 +1,303 @@
+viva:
+
+    trying-out-php-after-7-years:
+        from: 'kode-krunch.com'
+        type: 'misc'
+        url: 'https://www.kode-krunch.com/2021/12/trying-out-php-after-7-years.html'
+        title: "Trying out PHP after 7 years"
+        date: '2021-12-01'
+        author: 'Slawomir Dymitrow'
+        short: |
+            7 years ago, when I was finally parting ways with PHP to focus solely on Java, I was among the PHP haters.
+            So, maybe it's time to give PHP another shot?
+            Now, in the last quarter of 2021 we have PHP 8.1 and Symfony 6.0.
+            Both with innumerable improvements and new features.
+
+    yes-php-is-worth-using:
+        from: 'bulletproofphp.dev'
+        type: 'misc'
+        url: 'https://bulletproofphp.dev/yes-php-is-worth-using'
+        title: "Yes, PHP is Worth Learning/Using in $CURRENT_YEAR"
+        date: '2021-11-17'
+        author: 'Veselin Romić'
+        short: |
+            Welcome, dear reader! If you're reading this, you're probably one of the many people who find themselves wondering
+            how much of what they've heard about PHP (a lot of which isn't super positive,
+            I'm sure) is still relevant today. Is PHP a dying language?
+            Should you learn PHP in $CURRENT_YEAR, and/or use it to build your next app?
+            Hopefully, by the end of this post, you'll have the answers to these questions and more.
+
+    php-is-killing-python:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://beau-beauchamp.medium.com/php-is-killing-python-2be459364284'
+        title: "PHP Is Killing Python"
+        date: '2021-11-06'
+        author: 'Beau Beauchamp'
+        short: |
+            If you’re scratching your head wondering why PHP isn’t dead or even dying, it’s likely because
+            you probably don’t understand a few things about programming,
+            programmers, markets, and democracy. Things that actually have nothing
+            to do with code, functions, or syntax.
+
+    php-isnt-that-like-really-bad:
+        from: 'https://www.getparthenon.com/'
+        type: 'misc'
+        url: 'https://www.getparthenon.com/blog/php-isnt-that-like-really-bad/'
+        title: "PHP isn't that like really bad?"
+        date: '2021-07-04'
+        author: 'Iain Cambridge'
+        short: |
+            The aim of this article is to explain to non-technical individuals that PHP isn't as bad as many make it out to be.
+            Try to answer some of the more common assertions about PHP.
+            PHP has a terrible reputation because it used to be horrible.
+
+    dumb-reasons-to-hate-php:
+        from: 'https://stephencoakley.com'
+        type: 'misc'
+        url: 'https://stephencoakley.com/2020/06/10/dumb-reasons-to-hate-php'
+        title: "Dumb Reasons to Hate PHP"
+        date: '2020-06-10'
+        author: 'Stephen Coakley'
+        short: |
+            Now as expected whenever talking about PHP on the Internet, people are quick to grab 
+            their pitchforks and rehash the same classic criticisms of PHP over and over like a mantra.
+            Is it to feel superior? Do they think they're doing a public service?
+            I don't know. What I do know is that they're right to some extent;
+            PHP isn't the best-designed language by any means, largely because
+            it changed organically and incrementally over time.
+            It certainly hasn't stopped PHP from becoming as popular as it has.
+
+    non-php-nest-pas-ok-boomer:
+        from: 'http://www.bonjouramel.fr'
+        type: 'misc'
+        url: 'http://www.bonjouramel.fr/non-php-nest-pas-ok-boomer/'
+        title: "Non, PHP n’est pas 'OK boomer'"
+        date: '2020-04-23'
+        author: 'amelie'
+        short: |
+            Pour moi PHP représente tout la dynamique du web, et pour preuve, c’est le rare qui tienne encore debout
+            et qui ait autant de popularité depuis 25 ans. Je ne parlerai pas de Go, qui a sa côte de popularité,
+            mais tout frais, ou de Javascript qui a engendré NodeJS qui pour moi est plus une mode.
+            Javascript n’a son intérêt qu’en front-end, à mes yeux.
+
+    the-business-of-php:
+        from: 'https://www.phparch.com/'
+        type: 'misc'
+        url: 'https://www.phparch.com/article/the-business-of-php/'
+        title: "The business of PHP"
+        date: '2020-04-01'
+        author: 'Sherri Wheeler'
+        short: |
+            Among the many strategic decisions a business needs to make, one which we as developers
+            are involved with is the choice of tech stack—the tools and technologies used for software development.
+            When choosing a backend language, PHP presents its list of strengths and weaknesses;
+            this article examines these from a business perspective.
+
+    php-is-very-much-alive-and-doesnt-plan-on-dying:
+        from: 'https://jaxenter.com/'
+        type: 'misc'
+        url: 'https://jaxenter.com/php-alive-169045.html'
+        title: "PHP is very much alive and doesn't plan on dying"
+        date: '2020-03-11'
+        author: 'Yaroslav Kuflinski'
+        short: |
+            The reports about the death of PHP are greatly exaggerated.
+            Learn the current PHP status quo and why it is here to stay.
+            Backed by PHP developers from Iflexion, this article will give answers to all the burning questions
+            and help you make up your mind about PHP’s wellbeing once and for all.
+
+    pourquoi-les-developpeurs-detestent-php:
+        from: 'jesuisundev.com'
+        type: 'misc'
+        url: 'https://www.jesuisundev.com/en/why-developers-hate-php/'
+        title: "Why developers hate PHP"
+        date: '2020-05-20'
+        author: 'Mehdi Zed'
+        short: |
+            PHP is the most widely used language in the world for websites. It is also the most hated.
+            And it’s pure hate. But why do so many developers hate it so much?
+            Today we’re going to the origin of the hate, let’s see if it’s really justified.
+
+    the-state-of-php-today:
+        from: 'blog.syntaxseed.com'
+        type: 'misc'
+        url: 'https://blog.syntaxseed.com/the-state-of-php-today/'
+        title: "The state of PHP today"
+        date: '2019-05-25'
+        author: 'Sherri W'
+        short: |
+            Much like the old stereotype of “only nerds play video games”, PHP definitely earned a few
+            unflattering labels many years ago. Times have changed and developers in the know tell a very
+            different story. Just like all the cool kids now play Fortnite (do they? I don’t know),
+            PHP is nearly unrecognisable from its days as the scripting language ‘Personal Home Page’.
+
+    php-in-2019:
+        from: 'stitcher.io'
+        type: 'misc'
+        url: 'https://stitcher.io/blog/php-in-2019'
+        title: "PHP in 2019"
+        date: '2019-05-10'
+        author: 'Brent'
+        short: |
+            Do you remember the popular "PHP: a fractal of bad design" blog post? The first time I read it, I was working in a crappy place with
+            lots of legacy PHP projects. This article got me wondering whether I should just quit and go do something entirely different than programming.
+            Luckily for me I was able to switch jobs shortly thereafter and, more importantly, PHP managed to evolve quite a bit since the 5.* days.
+            Today I'm addressing the people who are either not programming in PHP anymore, or are stuck in legacy projects.
+
+    from-go-back-to-php-again:
+        from: 'dannyvankooten.com'
+        type: 'misc'
+        url: 'https://dannyvankooten.com/from-go-back-to-php-again/'
+        title: "Moving from Go to PHP again" 
+        date: '2019-02-04'
+        author: 'Danny van Kooten'
+        short: |
+            Remember when I ditched Laravel for Golang? Well, after 2 years on Go, our shop applications are powered by PHP again.
+            Why?! You already said it was probably a bad business decision, and then you spend even more time on it?! Well, yeah, several reasons actually.
+
+    php-is-dead-viva-le-php:
+        from: 'hackernoon.com'
+        type: 'hackernoon'
+        url: 'https://hackernoon.com/php-is-dead-viva-le-php-f5dc5eb5c9c4'
+        title: "PHP is dead... Viva le PHP!" 
+        date: '2018-10-26'
+        author: 'Sergii Shanin'
+        short: |
+            The fracas over Gutenberg and WordPress is the latest installment in the death of PHP.
+            Take a deep breath everybody. Let’s ignore the trolls and take a look at what Mark Twain,
+            Fidel Castro and PHP have in common — and more to the point, why PHP is still a reasonable choice for startups and small businesses.
+
+
+
+    what-the-deal-with-downing-php:
+        from: 'dev.to'
+        type: 'dev.to'
+        url: 'https://dev.to/joshualjohnson/whats-the-deal-with-downing-php-development-2bjf'
+        title: "What's the deal with downing PHP development?" 
+        date: '2018-08-19'
+        author: 'Joshua Johnson'
+        short: |
+            I'm trying to wrap my head around why so many developers down PHP development like it is a second class language?
+            Secondly, what are the better alternatives for web development?
+
+    php-will-save-your-startup:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/@alexkatrompas/java-will-kill-your-startup-php-will-save-it-f3051968145d'
+        title: 'Java will kill your startup. PHP will save it.'
+        date: '2018-07-12'
+        author: 'Alexander Katrompas'
+        short: |
+            What a small web-based business needs, no matter how big you think you will eventually get, is LAMP.
+            For those who don't know, LAMP is an acronym defining your operating system, web server, database,
+            and programming language. In this case, Linux, Apache, MySQL, and PHP. If you are a business oriented
+            founder or senior non-technical leader and you rely on others to advise you on technology,
+            you have likely heard LAMP (specifically the PHP or MySQL part) is passe, not good enough, "too simple,"
+            and doesn’t have the performance you need. That is complete nonsense. Facts...
+
+    php-modern-app-development:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/@prodriguez.val/php-modern-app-development-d493d8d4cf5a'
+        title: 'PHP Modern app development'
+        date: '2018-02-26'
+        author: 'Pablo Rodriguez V.'
+        short: |
+            PHP has a bad reputation among many programmers — some of them because of the language’s past mistakes, lack of standardization, security issues, and code styling.
+            That’s why new programmers don’t see PHP as an valid option for developing their projects.
+            For your information, PHP 7 has overcome so many past issues and improved speed.
+            Now PHP is insanely fast and has type hinting for methods and return types, making the language more consistent.
+
+    is-php-relevant:
+        from: 'dev.to'
+        type: 'dev.to'
+        url: 'https://dev.to/mporam/is-php-relevant--1np'
+        title: 'Is PHP relevant?'
+        date: '2018-02-08'
+        author: 'Mike Oram'
+        short: |
+            One of the most common questions I’m asked by academees, applicants and even other developers,
+            is, ‘why do you teach PHP?’ or, sometimes even, ‘isn’t PHP a dead language?’
+
+    what-modern-php-looks-like:
+        from: 'medium.freecodecamp.org'
+        type: 'medium'
+        url: 'https://medium.freecodecamp.org/this-is-what-modern-php-looks-like-769192a1320'
+        title: 'This is what modern PHP looks like'
+        date: '2018-01-13'
+        author: 'Felipe Lopes'
+        short: |
+            I have several problems working with PHP on a daily basis, but one cannot close their eyes to the changes
+            taking place in the language, community and the ecosystem. There is a long road ahead, but things are
+            getting mature in the land of PHP.
+
+    imposter-syndrome-php:
+        from: 'dev.to'
+        type: 'dev.to'
+        url: 'https://dev.to/restoreddev/imposter-syndrome-php-edition-8p9'
+        title: 'Imposter Syndrome: PHP Edition'
+        date: '2017-11-28'
+        author: 'Andrew Davis'
+        short: |
+            Programming is an amazingly cliquish community. Every developer has a preferred language with philosophical
+            reasoning or performance rankings to back up the choice. I love the variety we have when picking a
+            technology, it keeps the industry exciting and nimble. However, I hate all of the constant derision
+            that many programmers throw at languages they don’t use.
+
+    how-uses-php-anyway:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/@colindecarlo/who-uses-php-anyway-672115ab81de'
+        title: 'Who uses PHP anyway?'
+        date: '2017-09-09'
+        author: 'Colin DeCarlo'
+        short: |
+            People shitting on PHP isn’t going to go away, it’s a symptom of a few things.
+            PHP has a ridiculously flat learning curve so just about anyone can write code using it,
+            this means a lot of amateurs and ‘get it done’ developers will choose php but...
+
+    its-cool-to-hate-php:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/kongkow-it-medan/its-cool-to-hate-php-b02abef1da70'
+        title: 'It’s Cool to Hate PHP'
+        date: '2017-07-28'
+        author: 'Keving Ongko'
+        short: |
+            PHP is one of the most popular language on the internet yet it’s also one of the most hated language thanks
+            to it’s inconsistencies and issues, here is the list of known PHP issues.
+
+    php-equals-shit:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/fuzz/php-a0d0b1d365d8'
+        title: '$PHP = &#128169;'
+        date: '2017-04-07'
+        author: 'Simon Yousoufov'
+        short: |
+            It’s well known that PHP is a dead programming language and that its 22-year-old ecosystem is effectively
+            useless now that we have Node and its fancy new asynchronous frameworks. Node’s superiority is evident
+            because everyone knows that single-threaded, asynchronous, programs are better by default.
+
+    taking-php-seriously:
+        from: 'slack.engineering'
+        type: 'medium'
+        url: 'https://slack.engineering/taking-php-seriously-cf7a60065329'
+        title: 'Taking PHP Seriously'
+        date: '2016-10-12'
+        author: 'Keith Adams'
+        short: |
+            Slack uses PHP for most of its server-side application logic, which is an unusual choice these days.
+            Why did we choose to build a new project in this language? Should you?
+
+    is-php-badly-designed:
+        from: 'medium.com'
+        type: 'medium'
+        url: 'https://medium.com/humans-create-software/is-php-a-badly-designed-programming-language-85e7ed5c0f03'
+        title: 'Is PHP a badly designed programming language?'
+        date: '2014-09-14'
+        author: 'Mattias Petter Johansson'
+        short: |
+            Yes, it’s a horribly designed language (read PHP: a fractal of bad design if there is any doubt in your
+            mind), but by asking this question you’re misunderstanding PHP.

@@ -30,8 +30,8 @@ disablePathToLower = true
   term = ["HTML"]
 
 [params]
-  subtitle = "Blog about my favorite topics"
-  description = "This is my personal blog about tech."
+  subtitle = "Blog about software development & management"
+  description = "Mathieu Fermen's blog about software development & management"
   keywords = []
   images = []
   logo = "logo.jpg"

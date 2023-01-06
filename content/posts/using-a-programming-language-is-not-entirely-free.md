@@ -10,6 +10,6 @@ weight: 10
 TargetUrl: https://dev.to/matks/using-a-programming-language-is-not-entirely-free-5755
 ---
 
-Today I wanted to explain that using a programming language is not entirely free.
+In this blog post I explain that using a programming language is not entirely free.
 
 <!--more-->

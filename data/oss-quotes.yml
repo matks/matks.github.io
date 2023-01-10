@@ -204,3 +204,7 @@ oss:
         title: 'Maintainers have life'
         type: 'tweet'
         url: 'https://twitter.com/CiaranMcNulty/status/1464245890168799250'
+    43:
+        title: 'About maintainers overwhelmed'
+        type: 'source'
+        url: 'https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/'

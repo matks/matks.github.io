@@ -31,7 +31,7 @@ disablePathToLower = true
 
 [params]
   subtitle = "Blog about software development & management"
-  description = "Mathieu Fermen's blog about software development & management"
+  description = "Mathieu Ferment's blog about software development & management"
   keywords = []
   images = []
   logo = "logo.jpg"

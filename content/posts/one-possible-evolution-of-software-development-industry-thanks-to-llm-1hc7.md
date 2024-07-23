@@ -1,6 +1,6 @@
 ---
 title: One possible evolution of software development industry thanks to LLM
-date: 2024-07-23T22:18:40+02:00
+date: 2024-07-23T18:40:00+02:00
 authors:
   - matks
 tags:

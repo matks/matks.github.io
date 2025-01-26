@@ -11,7 +11,7 @@ resources:
 
 <--->
 
-PHP developer, love CI, git
+Engineering manager, love CI, git
 <br/>and opensource
 <br/>Works at <a href="http://prestashop.com/">PrestaShop</a>
 

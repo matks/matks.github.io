@@ -1,6 +1,6 @@
 ---
 title: Beyond processes
-date: 2025-06-28T19:32+02:00
+date: 2025-06-28T19:32:00+02:00
 authors:
   - matks
 tags:
